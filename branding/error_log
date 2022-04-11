@@ -1,0 +1,3 @@
+[14-Dec-2021 00:20:57 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[14-Dec-2021 00:20:57 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/brandingController.php on line 18
+[14-Dec-2021 00:20:57 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/brandingController.php on line 22

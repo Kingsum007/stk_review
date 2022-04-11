@@ -1,0 +1,10 @@
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: cname1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 7
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: curl1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 8
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: cdate1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 9
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: style1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 10
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: delay1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 11
+[18-Sep-2021 16:22:28 Asia/Kabul] PHP Notice:  Undefined index: brand1 in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/insert.php on line 12
+[19-Sep-2021 12:44:33 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[19-Sep-2021 12:44:33 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/CampaignController.php on line 18
+[19-Sep-2021 12:44:33 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/CampaignController.php on line 22
+[19-Sep-2021 12:44:33 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/campaign/index.php on line 232

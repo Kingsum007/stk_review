@@ -1,0 +1,29 @@
+[19-Sep-2021 09:19:29 Asia/Kabul] PHP Notice:  Undefined index: rev_campaign in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/insert.php on line 13
+[19-Sep-2021 09:51:55 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[19-Sep-2021 09:51:55 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[19-Sep-2021 09:51:55 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[19-Sep-2021 09:51:55 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 218
+[19-Sep-2021 12:47:21 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[19-Sep-2021 12:47:21 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[19-Sep-2021 12:47:21 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[19-Sep-2021 12:47:21 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
+[19-Sep-2021 12:54:48 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[19-Sep-2021 12:54:48 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[19-Sep-2021 12:54:48 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[19-Sep-2021 12:54:48 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
+[19-Sep-2021 12:55:04 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[19-Sep-2021 12:55:04 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[19-Sep-2021 12:55:04 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[19-Sep-2021 12:55:04 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
+[20-Sep-2021 18:12:37 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[20-Sep-2021 18:12:37 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[20-Sep-2021 18:12:37 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[20-Sep-2021 18:12:37 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
+[03-Oct-2021 21:09:04 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[03-Oct-2021 21:09:04 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[03-Oct-2021 21:09:04 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[03-Oct-2021 21:09:04 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
+[03-Oct-2021 21:09:05 Asia/Kabul] PHP Notice:  Undefined index: username in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/includes/header.php on line 39
+[03-Oct-2021 21:09:05 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 17
+[03-Oct-2021 21:09:05 Asia/Kabul] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/Controllers/Review_linkController.php on line 21
+[03-Oct-2021 21:09:05 Asia/Kabul] PHP Notice:  Undefined index: user_key in /home/u583862346/domains/nishatbrothers.com/public_html/stk_review/review_link/index.php on line 219
